@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="Coder GIF" width="500">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archanababu112&label=Profile%20views&color=0e75b6&style=flat" alt="archanababu112" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **SQL,Python,Excel**
+- 💬 Ask me about **Data Science, Machine Learning, LLM, SQL,Python,Excel**
 
 - 📫 How to reach me **archanababu3012@gmail.com**
 
@@ -22,10 +22,10 @@
 
 - *Programming Languages:* Python
 - *Data Manipulation and Analysis:* Numpy, Pandas, SQL
-- *Data VIsualization:* Matplotlib, Seaborn 
+- *Data Visualization:* Matplotlib, Seaborn 
 - *Machine Learning Frameworks:*  Scikit-learn, Tensorflow
 -*Natural Language Processing(NLP):* NLTK
--*Integrated Development Environment(IDE):*  Jupyter Notebook
+-*Integrated Development Environment(IDE):*  Jupyter Notebook, Vs code, Google Colab, Pycharm
 
 
 ## Skills
@@ -42,8 +42,8 @@ Advance Python skills and delve into advanced mathematical concepts. Master SQL 
 
 ## Connect With Me
 
-- **GitHub:ArchanaBabu112(https://github.com/ArchanaBabu112/ArchanaBabu112/edit/main/README.md)
-- **LinkedIn:Archana Babu (https://www.linkedin.com/in/archana-babu-748a64247/)
+- **GitHub:ArchanaBabu112(https://github.com/ArchanaBabu112/)
+- **LinkedIn:Archana Babu (https://www.linkedin.com/in/archana-babu3012/)
 
 Feel free to reach out if you have any questions, want to collaborate, or just chat about Data Science! 😊
 
